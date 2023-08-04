@@ -26,7 +26,7 @@ const Sidebar = () => {
         </div>
         <hr className="horizontal dark mt-0" />
         <div
-          className="collapse navbar-collapse  w-auto "
+          className="collapse navbar-collapse  w-auto h-100"
           id="sidenav-collapse-main"
         >
           <ul className="navbar-nav">
