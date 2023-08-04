@@ -1,0 +1,26 @@
+.search {
+  width: 50px !important;
+}
+.box {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #000;
+  padding: 15px;
+}
+.box-image {
+  font-size: 100px;
+}
+.box-title {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.gutter {
+  margin-bottom: 5px !important;
+}
+.main {
+  margin-left: 0px !important;
+}
